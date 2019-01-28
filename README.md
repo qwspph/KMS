@@ -208,3 +208,5 @@ Windows Server 2008 for Itanium-Based Systems |4DWFP-JF3DJ-B7DTH-78FJB-PDRHK
 
 
 TODO:office
+#windows 7 ultimate
+RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
